@@ -7,7 +7,7 @@ In opening the app with package and activity I was facing issues in appium inspe
 Created a package(BasePage)
 --has a class which returns driver
 Created a package(Pages)
-  -->Seperate class for each and every page in that packages
+-->Seperate class for each and every page in that packages
      HomePage
      CategoiresPages
      HelpPage
@@ -16,7 +16,7 @@ Created a package(Pages)
      OrdersPage
      
 Created a package(Utilties)
-  --->Spearate class for each functionalites
+--->Spearate class for each functionalites
       Actions--(click,setvalues,scrolling)
       Reports
       Screenshot(yet to be done)
